@@ -1,3 +1,14 @@
+# Tools dan Library Yang Digunakan : Javascript, ReactJs, Ethers.
+
+# Cara menjalankan project melalui Github :
+- Pertama, Pastikan pada chrome nya sudah terinstall Extensions MetaMask 
+- Download Project, atau
+- Clone project meggunakan syntax 
+"git clone https://github.com/fajarpp08/test-nusafinance.git"
+- lakukan npm install pada direktori project yang sudah di clone tersebut
+- kemudian, ketikkan "npm start" untuk menjalankan project
+- Project running.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
