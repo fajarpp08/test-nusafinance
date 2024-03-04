@@ -1,0 +1,34 @@
+Selamat siang Bapak/Ibu,
+HR Officer
+Nusa Finance
+
+Semoga sehat selalu, ini adalah jawaban saya mengenai technical test yang diberikan, saya mengerjakan tugas ini dengan sepenuh hati karena sangat besar harapan saya untuk dapat bergabung dan berkontribusi dengan perusahaan Bapak/Ibu.
+
+Terimakasih banyak atas kesempatan yang Bapak/Ibu berikan.
+
+Salam Hormat,
+Fajar Putra Pratama
++62 81218173646
+
+=====================================================================================
+
+Tools dan Library Yang Digunakan : Javascript, ReactJs, Ethers, Visual Studio Code.
+
+Cara menjalankan project melalui Github :
+- Pertama, Pastikan pada chrome nya sudah terinstall Extensions MetaMask 
+- Download Project melalui link yang sudah saya lampirkan di email, atau
+- Clone project meggunakan syntax 
+"git clone https://github.com/fajarpp08/test-nusafinance.git"
+- lakukan npm install pada direktori project yang sudah di clone tersebut
+- kemudian, ketikkan "npm start" untuk menjalankan project
+- Project running.
+
+Cara menjalankan project melalui Download Google Drive :
+- Pertama, Pastikan pada chrome nya sudah terinstall Extensions MetaMask 
+- Download Project melalui link yang sudah saya lampirkan di email, atau
+- Extract file yang sudah didownload
+- Buka folder pada terminal command prompt atau terminal VSCode
+- lakukan npm install pada direktori project tersebut
+- kemudian, ketikkan "npm start" untuk menjalankan project
+- Project running.
+
